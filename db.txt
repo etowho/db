@@ -3,11 +3,14 @@
 DragonFly
 
 согласно сайту DragonFly, эта db явлется CP (consistency + partition tolerance) как улучшенная версия Redis. 
+https://dragonflydb.io/
 
 ScyllaDB
 
 Scylladb отвечает AP - availability & partition tolerance. 
+https://www.scylladb.com/product/technology/
 
 ArenadataDB
 
 на сайте db выделен принцип ACID, а значит наш вариант - СА - consistency & availability
+https://docs.arenadata.io/adb/index.html
